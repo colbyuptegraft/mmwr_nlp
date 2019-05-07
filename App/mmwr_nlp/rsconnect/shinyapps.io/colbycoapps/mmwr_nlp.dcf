@@ -1,0 +1,13 @@
+name: mmwr_nlp
+title: mmwr_nlp
+username:
+account: colbycoapps
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 875388
+bundleId: 2060537
+url: https://colbycoapps.shinyapps.io/mmwr_nlp/
+when: 1557007936.22757
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|data_topWords.dta|testScript.R|top_cor.csv|words.csv
